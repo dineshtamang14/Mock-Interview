@@ -2,3 +2,56 @@
 Java is a high-level and purely object oriented programming language. 
 It is platform independent, robust, secure, and multithreaded programming language
 
+2. what is class and object in java ?
+Class is not a real world entity. It is just a template or blueprint or 
+prototype from which objects are created. Class does not occupy memory.
+object is a basic unit of Object-Oriented Programming and represents real life entities
+
+3. what is constructor ?
+A constructor is a special method that has same name as a class name
+it is called automatically when object is created.
+  
+We have two types of constructors:
+Default Constructor
+Parameterized Constructor
+
+4. what is this keyword ?
+this keyword refers to current instance of object or a constructor.
+it is used to eliminate the confusion between instance variable and parameters variable
+
+5. what is static variable in java?
+When a variable is declared as static, then a single copy of the variable is created 
+and shared among all objects at the class level. it saves memory and it can be access 
+using class name.
+
+6. why multiple inheritance is not supported in java ?
+The reason behind this is to prevent ambiguity.
+Consider a case where class B extends class A and Class C and 
+both class A and C have the same method display().
+Now java compiler cannot decide, which display method it should inherit. 
+To prevent such situation, multiple inheritances is not allowed in java
+
+7. what is inheritance ?
+It is the mechanism in java by which one class is allowed to inherit the features(fields and methods) 
+of another class. In Java, inheritance means creating new classes based on existing ones. 
+A class that inherits from another class can reuse the methods and fields of that class.
+
+8. types of inheritance ?
+i. Single Inheritance
+ii. Multilevel Inheritance
+iii. Hierarchical Inheritance
+iv. Multiple Inheritance (Through Interfaces)
+
+9. super keyword in java ?
+it is used to call the parent class constructor and used to refer parent class instance variable
+and also used to call parent class method.
+
+10. what is polymorphism ?
+The word polymorphism means having many forms
+Polymorphism allows us to perform a single action in different ways. In other words, 
+polymorphism allows you to define one interface and have multiple implementations.
+types of polymorphism:
+i. Compile-time Polymorphism
+   This type of polymorphism is achieved by function overloading or operator overloading. 
+ii. Runtime Polymorphism
+    Method overriding
