@@ -1,7 +1,7 @@
 Tell me about yourself ?
 
 thank you for allowing me to introduce myself my name is Dinesh Tamang i am from Badlapur Maharashtra.
-i am doing computer science engineering from Dilkap college of engineering. 
+i am currently doing computer science engineering from Dilkap college of engineering. 
 i secured 6.8 cgpa in 10 standrand and 7 cgpa in 12 standrand.
 and currently in engineering my aggregate score is 8 cgpa.
 my technical skill includes programming in python, java, c++, typescript, Node.js and Databases such as
