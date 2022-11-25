@@ -55,3 +55,13 @@ i. Compile-time Polymorphism
    This type of polymorphism is achieved by function overloading or operator overloading. 
 ii. Runtime Polymorphism
     Method overriding
+
+
+11. what is Encapsulation ?
+Encapsulation is used to hide sensitive data from users 
+example by making variables private and providing public geter and seter methods to access 
+the private variable
+
+12. Abstraction in java ?
+Data abstraction is the process of hiding certain details and showing only essential information to the user.
+Abstraction can be achieved with either abstract classes or interface
