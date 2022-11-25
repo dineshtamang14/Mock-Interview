@@ -1,0 +1,7 @@
+1. WAP for sorting?
+2. create a class and objects and call a method.
+3. WAP for Exception Handling.
+4. create a abstract class and create interface
+5. count the string without using length method
+6. count sum of digits
+7. count the vowels in string

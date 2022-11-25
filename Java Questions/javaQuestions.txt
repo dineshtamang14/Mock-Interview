@@ -1,0 +1,4 @@
+1. what is java? features of java ?
+Java is a high-level and purely object oriented programming language. 
+It is platform independent, robust, secure, and multithreaded programming language
+
