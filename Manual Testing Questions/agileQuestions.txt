@@ -22,3 +22,112 @@ vi. simplicity
 i. Scrum Frameworks (mainly followed by I.T.)
 ii. Kanban Frameworks (mainly followed by manufacturing)
 
+5. What is Scrum?  Roles ?
+Scrum as a way to get work done as a team in small pieces at a time, with continuous experimentation 
+and feedback loops along the way to learn and improve as you go. Scrum helps people and teams deliver 
+value incrementally in a collaborative way. As an agile framework, Scrum provides just enough structure 
+for people and teams to integrate into how they work, while adding the right practices to optimize for 
+their specific needs.
+Roles:
+i. Scrum Master
+    scrum master is leader of scrum team. he helps scrum team to perform at heighest level
+ii. Product Owner
+    product owner communicates with client in behalf to development team and he is also reponsible for 
+    managing and prioritize the product backlog and build a trust relationship with client.
+iii. Developement Team
+
+6. scrum Principles ?
+i. Transparency (who is working on what)
+ii. Adaption (accepting changes according to the client)
+iii. inspection (inspecting everyone reponsiblity)
+
+7. meetings in scrum framework ?
+i. sprint planning meeting (starting day of project 1.5 hours of meeting)
+    story development and planning testing
+
+ii. Daily scrum meeting (Every day meeting)
+    a 15 minutes meeting everyday at the starting of day.
+    discussing about what work has been done yesterday and 
+    discussing what work is going to do today
+
+iii. Sprint Review Meeting (At the end of each Sprint 30 minutes)
+    the core objective of this meeting is to demonstrate the functionality of the product and what has 
+    been achieved during a particular Sprint. Generally, product owner, Scrum Master, and other 
+    client are present to review the product.
+
+iv. Sprint Retrospective meeting (at the end of sprint review 30 minutes meeting)
+    taking feedback from client and discussing what went right and wrong during a Sprint and is 
+    there any need of imporvement. The meeting brings forth a great opportunity for the entire team 
+    to reflect back on the work and what improvements are needed to be made.
+
+v. Backlog Refinement Meeting (product backlog grooming)
+    In backlog refinement meeting, the backlog items are categorized and prioritized after a 
+    technical discussion with the team to make sure that the team understands which backlog to resolve first.
+
+
+8. static and dynamic testing ?
+static:
+    tatic Testing is a type of software testing in which software application is tested without 
+    code execution. Manual or automated reviews of code, requirement Documentation and document design are 
+    done in order to find the errors. The main objective of static testing is to improve the quality 
+    of software applications by finding errors in early stages of software development process.
+
+dynamic:
+    Under Dynamic Testing, a code is executed. It checks for functional behavior of software system, 
+    memory/cpu usage and overall performance of the system. Hence the name “Dynamic”
+    The main objective of this testing is to confirm that the software product works in conformance 
+    with the business requirements. 
+
+9. software testing lifecycle ?
+i. requirement analysis
+    ii. test planning (automated, manual)
+        iii. Test case Developement
+            iv. Test Environment setup
+                v. Test execution (pass test, fail test)
+                    vi. Test cycle closure (closing the testing)
+
+10. Quality of Test Execution ?
+i. Defect Leakeage
+    your not able to find defect but client find it.
+    if Defect leakeage is less then quality is high 
+
+ii. Defect Reject
+    Defect is Rejected if Defect is not valid or reason is the defect already resolved
+
+Quality of Execution depends on:
+    i. Less Defect Leakeage
+    ii. Less Defect Reject
+
+11. what are the levels of Testing ?
+i. Unit Testing (base level code testing)
+ii. Integration Testing (Design Testing)
+iii. System Testing (requirement testing)
+iv. Acceptance Testing (client demands full fill)
+
+12. what is Defect and Defect lifecycles ?
+A defect is an error or a bug, in the application which is created. A programmer while designing 
+and building the software can make mistakes or error. These mistakes or errors mean that there are 
+flaws in the software. These are called defects.
+
+New: 
+    When a new defect is logged and posted for the first time. It is assigned a status as NEW.
+    
+Assigned: 
+    Once the bug is posted by the tester, the lead of the tester approves the bug and assigns 
+    the bug to the developer team.
+
+Open: 
+    The developer starts analyzing and works on the defect fix
+
+Fixed: 
+    When a developer makes a necessary code change and verifies the change, he or she can make
+    bug status as “Fixed.”
+
+Pending retest: 
+    Once the defect is fixed the developer gives a particular code for retesting the code to 
+    the tester. Since the software testing remains pending from the testers end, the status assigned 
+    is “pending retest.”
+
+Retest: 
+    Tester does the retesting of the code at this stage to check whether the defect is 
+    fixed by the developer or not and changes the status to “Re-test.”
