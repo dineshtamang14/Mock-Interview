@@ -77,7 +77,10 @@ verify/accept the software system before moving the software application to the 
 UAT is done in the final phase of testing after functional, integration and system testing is done. 
 
 12. what is Interface Testing ?
-
+Interface Testing is defined as a software testing type which verifies whether the communication 
+between two different software systems is done correctly.
+A connection that integrates two components is called interface. 
+This interface in a computer world could be anything like API’s.
 
 13. What is Integration Testing?
 Integration Testing is defined as a type of testing where software modules are integrated 

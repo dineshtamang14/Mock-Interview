@@ -1,0 +1,24 @@
+1. what is agile methodology ?
+Agile is a Iterative and incremental model.
+Agile Methodology meaning a practice that promotes continuous iteration of development and 
+testing throughout the software development lifecycle of the project. In the Agile model in 
+software testing, both development and testing activities are concurrent, unlike the Waterfall model.
+
+2. Agile Values ?
+i. individual and interaction over a process and tools.
+ii. working software over comprehensive Documentation.
+iii. customer collaboration over contract negotiation.
+iv. Responding to change over following a plan.
+
+3. Agile Principles ?
+i. customer satisfaction early and continuous software delivery.
+ii. accomodate changing requirement throughout the development process.
+iii. frequent devlivery of working software.
+iv. enable face to face interaction.
+v. agile process support a consistent development phase.
+vi. simplicity
+
+4. Agile Frameworks?
+i. Scrum Frameworks (mainly followed by I.T.)
+ii. Kanban Frameworks (mainly followed by manufacturing)
+
