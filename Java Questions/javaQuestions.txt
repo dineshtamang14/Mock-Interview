@@ -11,7 +11,7 @@ object is a basic unit of Object-Oriented Programming and represents real life e
 A constructor is a special method that has same name as a class name
 it is called automatically when object is created.
   
-We have two types of constructors:
+there are two types of constructors:
 Default Constructor
 Parameterized Constructor
 
