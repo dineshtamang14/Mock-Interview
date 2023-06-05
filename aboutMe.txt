@@ -12,3 +12,18 @@ these all is my technical skills.
 coming to extra curriculum activites i love to play football and i also like to read write.
 and consider myself as a very focused person and i always worked towards my goal and in a very
 efficent manner i am a team player and very optimistic in tough times.
+
+
+1. Tell me about yourself?
+
+Thank you for allowing me to introduce myself My name is Dinesh Tamang, I recently completed bachelor in computer science from Dilkap College of Engineering.
+
+Throughout my academic journey, I actively worked on various projects related to cloud computing and DevOps. These projects allowed me to work in to real-world scenarios and further enhance my skills in these domains.
+
+my technical skill incudes programming in TypeScript, Java, Python, JavaScript, Node.js and also familiar with DevOps tools such as Kubernetes, Docker, Terraform, GitOps, ArgoCD, Gitlab, Jenkins, Linux etc.
+
+Additionally, During my first year, I have done internship on mobile application development.
+
+Later, during my third year, I have done internship as an AWS Solution Architect.                
+
+during my final year of college, I have successfully published one resarch paper.
